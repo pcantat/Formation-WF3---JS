@@ -240,7 +240,7 @@ console.log(nbElementsDeMonTableau);
  */
 
     /* -------------------------------------------------\
-    |                                                   |   
+    |                                                   |
     |     RECUPERER ET SORTIR LE DERNIER ELEMENT        |
     |                                                   |
     \------------------------------------------------- */
