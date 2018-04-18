@@ -37,7 +37,7 @@ console.log(typeof Age);
 
 
 /*
-|-------------------------------------------------- 
+/---------------------------------------------------\
 | ~ ~ ~ ~ ~   LA PORTEE DES VARIABLES   ~ ~ ~ ~ ~ ~ |
 | Les variables déclarées directement à la racine   |
 | du fichier JS sont appelées variables GLOBALES.   |
@@ -66,7 +66,7 @@ console.log(typeof Age);
 | condition.                                        |
 |                                                   |
 |                                                   |
-|---------------------------------------------------|
+\---------------------------------------------------/
 */
 
 //Les variables FLOAT
